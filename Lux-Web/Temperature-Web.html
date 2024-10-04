@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="refresh" content="5">
+  <title>ESP32 Web Server</title>
+</head>
+<body>
+  <h1>ESP32 Web Server</h1>
+  <p>Temperature: <span id="temperature"></span> &#8451;</p>
+
+  <p>Date: <span id="date"></span> &#8451;</p>
+
+  <script>
+    async function fetchTemperature() {
+      try {
+        let response = await fetch('/temperature');
+        let data = await response.text();
+        document.getElementById('temperature').innerText = data;
+        let date = new Date();
+        document.getElementById('date').innerText = date;
+      } catch (error) {
+        console.error('Error fetching temperature:', error);
+      }
+    }
+    
+    // Fetch temperature every 5 seconds
+    setInterval(fetchTemperature, 3000);
+    fetchTemperature();
+  </script>
+</body>
+</html>

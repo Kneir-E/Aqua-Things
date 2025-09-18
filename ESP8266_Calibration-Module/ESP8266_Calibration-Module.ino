@@ -1,14 +1,14 @@
 #include <ADS1115_WE.h> 
 #include <Wire.h>
 #define ADS_ADD 0x48
-#define ADS_EN0 D6
-#define ADS_EN1 D7
+#define ADS_EN0 D7
+#define ADS_EN1 D6
 
 ADS1115_WE _ads = ADS1115_WE(ADS_ADD);
 bool adsNotFound = true;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(57600);
   delay(2000);
   Serial.println("Calibration Module Started");
 
@@ -34,6 +34,7 @@ void loop() {
     return;
   
   String inst = Serial.readString();
+  // Serial.println("rcv - " + inst);
 
   if(adsNotFound){
     Serial.println("NA-ERROR: External ADC isn't found. Try reconnecting the calibration module.");

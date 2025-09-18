@@ -1,0 +1,410 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄çì¡N!ÜÔ˚=ÍA§P
+\M‘d=©ÛF£q„h‹òò¯ÙÜ¿Wg3Úıoˇ≠¥ˆt˙’Â˝ky7S∂Oeqs	AYbb¯\Ì≈àãJ;áãÍ˜Ïô¿›‚d^Õ1ä—8eÄ…YØ(uw6¿È’Û˝›√≈€Î8íû,è [@…æ‡hméaÿ¿˘∞∫^0ßHR•™èFEÖxÕ Œ‰euª«≤äç‚D<I~Qu,©Ç÷SuÀôT=À**·†egE’±NEµ/*éë±‘"≤Âd#U«∆∫kß—KÕ¢ÍX´Bƒπ˚û5é)Œ'—≥±vÍê«é%ïõŒ∆a®Á’≥¨í	‡ü™éeU,=4é=kOU66´z÷®«ÖYÚ •!óé#+'Há|‚ïã2≈Àú6ﬁÊ˚úTˇœ≥LÈ€`“îß•cw∑r œ¶˚
+mûe} QÙ~—o"‰-¯M‰∑ºà1}’œhœÈF˚ÌT’oW©Ò˚!«¸ª
+endstream
+endobj
+6 0 obj
+384
+endobj
+14 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R]
+endobj
+15 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 14 0 R>>
+endobj
+16 0 obj
+<</S /GoTo /D [15 0 R /Fit]
+>>
+endobj
+19 0 obj
+<</S /GoTo /D [15 0 R /FitR 350 492 387 442]
+>>
+endobj
+21 0 obj
+<</S /GoTo /D [15 0 R /FitR 341 470 361 450]
+>>
+endobj
+23 0 obj
+<</S /GoTo /D [15 0 R /FitR -4 571 319 397]
+>>
+endobj
+25 0 obj
+<</S /GoTo /D [15 0 R /FitR 220 525 299 431]
+>>
+endobj
+27 0 obj
+<</S /GoTo /D [15 0 R /FitR 256 560 356 393]
+>>
+endobj
+29 0 obj
+<</S /GoTo /D [15 0 R /FitR 341 493 361 473]
+>>
+endobj
+31 0 obj
+<</S /GoTo /D [15 0 R /FitR 329 499 350 421]
+>>
+endobj
+33 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+34 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+35 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+36 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 33 0 R
+    /KicadFontI 34 0 R
+    /KicadFontB 35 0 R
+    /KicadFontBI 36 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [359.943 454.768 378.595 480.139]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = USB_B_Micro"],
+["Footprint = USB_Micro-B_Amphenol_10118194_Horizontal"],
+["Description = USB Micro Type B connector"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [346.422 455.194 356.769 465.54]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J3"],
+["Value = Fake Via"],
+["Footprint = PinHeader_1x01_P2.54mm_Vertical"],
+["Description = Generic connectable mounting pin connector, single row, 01x01, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [76.9465 440.822 238.946 527.704]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U4"],
+["Value = ESP8266 LoLinV3"],
+["Footprint = NodeMCU-LoLinV3"],
+["Datasheet = http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf", "http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf"],
+["Description = Highly integrated Wi-Fi SoC, QFN-32"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [240.435 454.556 279.78 501.611]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = LEVEL SHIFTER"],
+["Footprint = CONV_BOB-12009"],
+["MF = SparkFun"],
+["MAXIMUM_PACKAGE_HEIGHT = N/A"],
+["Package = None"],
+["Price = None"],
+["Check_prices = https://www.snapeda.com/parts/BOB-12009/SparkFun+Electronics/view-part/?ref=eda", "https://www.snapeda.com/parts/BOB-12009/SparkFun+Electronics/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = 01"],
+["SnapEDA_Link = https://www.snapeda.com/parts/BOB-12009/SparkFun+Electronics/view-part/?ref=snap", "https://www.snapeda.com/parts/BOB-12009/SparkFun+Electronics/view-part/?ref=snap"],
+["MP = BOB-12009"],
+["Purchase-URL = https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=551764&manufacturer=SparkFun&part_name=BOB-12009&search_term=None", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=551764&manufacturer=SparkFun&part_name=BOB-12009&search_term=None"],
+["Description_1 = 
+BSS138 Logic-Level Translator Interface Evaluation Board
+"],
+["Availability = In Stock"],
+["MANUFACTURER = SparkFun Electronics"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [281.091 435.275 331.25 518.463]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U3"],
+["Value = ADS1115"],
+["Footprint = MODULE_ZC261500"],
+["MF = YKS"],
+["MAXIMUM_PACKAGE_HEIGHT = NA"],
+["Package = None"],
+["Price = None"],
+["Check_prices = https://www.snapeda.com/parts/ZC261500/YKS/view-part/?ref=eda", "https://www.snapeda.com/parts/ZC261500/YKS/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = NA"],
+["SnapEDA_Link = https://www.snapeda.com/parts/ZC261500/YKS/view-part/?ref=snap", "https://www.snapeda.com/parts/ZC261500/YKS/view-part/?ref=snap"],
+["MP = ZC261500"],
+["Description_1 = 
+ADS1115 Module ADC 4 channel with Pro Gain Amplifier for Arduino RPi
+"],
+["Availability = Not in stock"],
+["MANUFACTURER = YKS"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [346.422 478.438 356.769 488.784]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J4"],
+["Value = Fake Via"],
+["Footprint = PinHeader_1x01_P2.54mm_Vertical"],
+["Description = Generic connectable mounting pin connector, single row, 01x01, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [335.013 440.595 345.359 479.713]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = Pin Header \\u00281x05\\u0029"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["Description = Generic connectable mounting pin connector, single row, 01x05, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+15 0 R
+]
+/Count 1
+>>
+endobj
+37 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20240819152004)
+/Creator (PCBNEW)
+/Title (ESP8266_Calib_Module-F_Silkscreen.pdf)
+>>
+endobj
+32 0 obj
+<<
+/Title (J1)
+/Parent 18 0 R
+/Next 20 0 R
+/A 31 0 R
+>>
+endobj
+20 0 obj
+<<
+/Title (J2)
+/Parent 18 0 R
+/Next 22 0 R
+/Prev 32 0 R
+/A 19 0 R
+>>
+endobj
+22 0 obj
+<<
+/Title (J3)
+/Parent 18 0 R
+/Next 30 0 R
+/Prev 20 0 R
+/A 21 0 R
+>>
+endobj
+30 0 obj
+<<
+/Title (J4)
+/Parent 18 0 R
+/Next 26 0 R
+/Prev 22 0 R
+/A 29 0 R
+>>
+endobj
+26 0 obj
+<<
+/Title (U2)
+/Parent 18 0 R
+/Next 28 0 R
+/Prev 30 0 R
+/A 25 0 R
+>>
+endobj
+28 0 obj
+<<
+/Title (U3)
+/Parent 18 0 R
+/Next 24 0 R
+/Prev 26 0 R
+/A 27 0 R
+>>
+endobj
+24 0 obj
+<<
+/Title (U4)
+/Parent 18 0 R
+/Prev 28 0 R
+/A 23 0 R
+>>
+endobj
+18 0 obj
+<<
+/Title (Footprints)
+/Parent 17 0 R
+/Count -7
+/First 32 0 R
+/Last 24 0 R
+/A 16 0 R
+>>
+endobj
+17 0 obj
+<<
+/Title (Page 1)
+/Parent 38 0 R
+/Count -1
+/First 18 0 R
+/Last 18 0 R
+/A 16 0 R
+>>
+endobj
+38 0 obj
+<< /Type /Outlines
+   /Count 9
+   /First 17 0 R
+   /Last 17 0 R
+>>
+endobj
+39 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 38 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 40
+0000000000 65535 f 
+0000006614 00000 n 
+0000001707 00000 n 
+0000001820 00000 n 
+0000006045 00000 n 
+0000000015 00000 n 
+0000000473 00000 n 
+0000001841 00000 n 
+0000002164 00000 n 
+0000002587 00000 n 
+0000003088 00000 n 
+0000004314 00000 n 
+0000005174 00000 n 
+0000005599 00000 n 
+0000000492 00000 n 
+0000000556 00000 n 
+0000000760 00000 n 
+0000007489 00000 n 
+0000007385 00000 n 
+0000000807 00000 n 
+0000006888 00000 n 
+0000000871 00000 n 
+0000006973 00000 n 
+0000000935 00000 n 
+0000007313 00000 n 
+0000000998 00000 n 
+0000007143 00000 n 
+0000001062 00000 n 
+0000007228 00000 n 
+0000001126 00000 n 
+0000007058 00000 n 
+0000001190 00000 n 
+0000006816 00000 n 
+0000001254 00000 n 
+0000001361 00000 n 
+0000001476 00000 n 
+0000001588 00000 n 
+0000006674 00000 n 
+0000007589 00000 n 
+0000007672 00000 n 
+trailer
+<< /Size 40 /Root 39 0 R /Info 37 0 R >>
+startxref
+7813
+%%EOF
